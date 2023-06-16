@@ -1,5 +1,5 @@
 Package: rtoypackpiz
-Title: SuperSuperShort
+Title: SuperSuperShort - Following the R packages tutorial
 Version: 0.0.0.9000
 Authors@R: 
     person("Panakin", "Zervakis", , "panagiotis.zervakis@su.se", role = c("aut", "cre"),
